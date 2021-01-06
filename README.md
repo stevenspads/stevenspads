@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hi there 👋 I'm [Steven](http://www.lumin8media.com)
+
+[![](https://komarev.com/ghpvc/?username=stevenspads&color=blue&label=Profile%20Views)](https://github.com/stevenspads/stevenspads)
+[![](https://img.shields.io/github/followers/stevenspads?label=GitHub%20Followers)](https://github.com/stevenspads)
+
+- :link: Check out [my blog](http://www.lumin8media.com) for web development articles, tips, and tutorials.
+- :hammer: I’m currently working on a few side-projects.
+- :brain: I’m currently learning more about Next.js.
+- 💬 Ask me about any questions you might have on JavaScript, TypeScript, Angular, React, NestJS, or Laravel.
+
+### Let's Connect :handshake:
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://ca.linkedin.com/in/stevenspad)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/stevenspads) 
+
+### GitHub Stats :slot_machine:
+
+<img align="left" alt="Steven's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stevenspads&hide=contribs&show_icons=true&theme=dracula" />
 
 <!--
 **stevenspads/stevenspads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
