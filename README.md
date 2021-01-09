@@ -3,7 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=stevenspads&color=blue&label=Profile%20Views)](https://github.com/stevenspads/stevenspads)
 [![](https://img.shields.io/github/followers/stevenspads?label=GitHub%20Followers)](https://github.com/stevenspads)
 
-- :link: Check out [my blog](http://lumin8media.com) for web development articles, tips, and tutorials.
+- :link: Check out [my blog](https://lumin8media.com) for web development articles, tips, and tutorials.
 - :hammer: I’m currently working on a few side-projects.
 - :brain: I’m currently learning more about Next.js.
 - 💬 Ask me about any questions you might have on JavaScript, TypeScript, Angular, React, NestJS, or Laravel.
