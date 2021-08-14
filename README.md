@@ -5,7 +5,6 @@
 
 - :link: Check out [my blog](https://lumin8media.com) for web development articles, tips, and tutorials.
 - :hammer: I’m currently working on a few side-projects.
-- :brain: I’m currently learning more about Next.js.
 - 💬 Ask me about any questions you might have on JavaScript, TypeScript, Angular, React, NestJS, or Laravel.
 
 ### Let's Connect :handshake:
