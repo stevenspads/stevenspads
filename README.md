@@ -5,11 +5,10 @@
 
 - :link: Check out [my blog](https://lumin8media.com) for web development articles, tips, and tutorials.
 - :hammer: I’m currently working on a few side-projects.
-- 💬 Ask me about any questions you might have on JavaScript, TypeScript, Angular, React, NestJS, or Laravel.
+- 💬 Ask me about any questions you might have on JavaScript, TypeScript, React, NextJS, NestJS, or CSS.
 
 ### Let's Connect :handshake:
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://ca.linkedin.com/in/stevenspad)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/stevenspads) 
 
 ### GitHub Stats :slot_machine:
